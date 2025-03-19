@@ -1,3 +1,7 @@
 # ignore all .txt files
 *.txt
+<<<<<<< HEAD
 *secret recipe.htm
+=======
+secret recipe.htm
+>>>>>>> ed3d07a13cbf3adf5c765ce6c2022c1437d727f0
